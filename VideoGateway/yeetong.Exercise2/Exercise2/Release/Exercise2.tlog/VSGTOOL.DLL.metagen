@@ -1,0 +1,30 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly VSGTool, Version=18.1.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class VSGTool.DictionaryDataRowTool: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    Add(String, DataRow): PrivateScope, Public, Static, HideBySig
+    Remove(String): PrivateScope, Public, Static, HideBySig
+    GetValueByKey(String): PrivateScope, Public, Static, HideBySig
+    Clear(): PrivateScope, Public, Static, HideBySig
+    IsExist(String): PrivateScope, Public, Static, HideBySig
+    SelfChecking(String): PrivateScope, Public, Static, HideBySig
+Class VSGTool.DictionaryTool: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    Add(String, Thread): PrivateScope, Public, Static, HideBySig
+    Remove(String): PrivateScope, Public, Static, HideBySig
+    Clear(): PrivateScope, Public, Static, HideBySig
+    IsExist(String): PrivateScope, Public, Static, HideBySig
+    SelfChecking(String): PrivateScope, Public, Static, HideBySig
+Class VSGTool.PingToServer: AutoLayout, AnsiClass, Class, Public
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean IsNet : Public, Static
+  Methods:
+    MyPing(): PrivateScope, Public, Static, HideBySig

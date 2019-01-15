@@ -1,0 +1,19 @@
+E:\共友时代\集群数据库访问转接服务\testClient\testClient\testClient\bin\Debug\testClient.exe.config
+E:\共友时代\集群数据库访问转接服务\testClient\testClient\testClient\bin\Debug\testClient.exe
+E:\共友时代\集群数据库访问转接服务\testClient\testClient\testClient\bin\Debug\testClient.pdb
+E:\共友时代\集群数据库访问转接服务\testClient\testClient\testClient\obj\Debug\testClient.Form1.resources
+E:\共友时代\集群数据库访问转接服务\testClient\testClient\testClient\obj\Debug\testClient.Properties.Resources.resources
+E:\共友时代\集群数据库访问转接服务\testClient\testClient\testClient\obj\Debug\testClient.csproj.GenerateResource.Cache
+E:\共友时代\集群数据库访问转接服务\testClient\testClient\testClient\obj\Debug\testClient.exe
+E:\共友时代\集群数据库访问转接服务\testClient\testClient\testClient\obj\Debug\testClient.pdb
+E:\共友时代\集群数据库访问转接服务\testClient\testClient\testClient\obj\Debug\testClient.csprojResolveAssemblyReference.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\testClient\testClient\testClient\bin\Debug\testClient.exe.config
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\testClient\testClient\testClient\bin\Debug\testClient.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\testClient\testClient\testClient\bin\Debug\testClient.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\testClient\testClient\testClient\obj\Debug\testClient.csprojAssemblyReference.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\testClient\testClient\testClient\obj\Debug\testClient.Form1.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\testClient\testClient\testClient\obj\Debug\testClient.Properties.Resources.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\testClient\testClient\testClient\obj\Debug\testClient.csproj.GenerateResource.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\testClient\testClient\testClient\obj\Debug\testClient.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\testClient\testClient\testClient\obj\Debug\testClient.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\testClient\testClient\testClient\obj\Debug\testClient.pdb

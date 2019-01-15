@@ -1,0 +1,20 @@
+//ÐÄÌø
+#heartbeat#2018-07-26 15:25:10#GOYO123456#
+//¶©ÔÄ
+#topic#add#VSG/d9afaa6dec6e45f1b22565c9473f4982/Call#GOYO123456#
+#topic#add#VSG/d9afaa6dec6e45f1b22565c9473f4982/870f0a2c1a5c4ec4a8c95cf53b39a5f0/PushFlowStatus#GOYO123456#
+
+
+//·¢ËÍ
+#send_data#VSG/d9afaa6dec6e45f1b22565c9473f4982/Call#S&870f0a2c1a5c4ec4a8c95cf53b39a5f0&1&20180726152910&VSG&E#GOYO123456#
+
+
+
+
+#topic#add#PTZ/d9afaa6dec6e45f1b22565c9473f4982/Call#GOYO123456#
+
+
+#topic#add#PTZ/d9afaa6dec6e45f1b22565c9473f4982/0b557a2fb8ce4cc59ebd69fffa4e7cea/PTZStatus#GOYO123456#
+
+
+#send_data#PTZ/d9afaa6dec6e45f1b22565c9473f4982/Call#S&0b557a2fb8ce4cc59ebd69fffa4e7cea&192.168.66.243&8000&admin&goyo1234567890&PAN_LEFT&500&1&1535011769896&PTZ&E#GOYO123456#

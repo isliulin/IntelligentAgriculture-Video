@@ -1,0 +1,7 @@
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\client\yeetong.DBClient\bin\Debug\yeetong.DBClient.dll.config
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\client\yeetong.DBClient\bin\Debug\yeetong.DBClient.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\client\yeetong.DBClient\bin\Debug\yeetong.DBClient.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\client\yeetong.DBClient\obj\Debug\yeetong.DBClient.csprojAssemblyReference.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\client\yeetong.DBClient\obj\Debug\yeetong.DBClient.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\client\yeetong.DBClient\obj\Debug\yeetong.DBClient.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\client\yeetong.DBClient\obj\Debug\yeetong.DBClient.pdb

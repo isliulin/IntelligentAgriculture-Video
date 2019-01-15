@@ -1,0 +1,42 @@
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WcfServiceload\bin\Debug\WcfServiceload.dll.config
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WcfServiceload\bin\Debug\WcfServiceload.dll
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WcfServiceload\bin\Debug\WcfServiceload.pdb
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WcfServiceload\obj\Debug\WcfServiceload.dll
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WcfServiceload\obj\Debug\WcfServiceload.pdb
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WcfServiceload\obj\Debug\WcfServiceload.csprojResolveAssemblyReference.cache
+J:\迅达天成\项目\WCFServer\WcfServiceload\bin\Debug\WcfServiceload.dll.config
+J:\迅达天成\项目\WCFServer\WcfServiceload\bin\Debug\WcfServiceload.dll
+J:\迅达天成\项目\WCFServer\WcfServiceload\bin\Debug\WcfServiceload.pdb
+J:\迅达天成\项目\WCFServer\WcfServiceload\bin\Debug\ToolAPI.dll
+J:\迅达天成\项目\WCFServer\WcfServiceload\obj\Debug\WcfServiceload.csprojResolveAssemblyReference.cache
+J:\迅达天成\项目\WCFServer\WcfServiceload\obj\Debug\WcfServiceload.dll
+J:\迅达天成\项目\WCFServer\WcfServiceload\obj\Debug\WcfServiceload.pdb
+G:\迅达天成20170616\项目\WCFServer\WcfServiceload\bin\Debug\WcfServiceload.dll.config
+G:\迅达天成20170616\项目\WCFServer\WcfServiceload\bin\Debug\WcfServiceload.dll
+G:\迅达天成20170616\项目\WCFServer\WcfServiceload\bin\Debug\WcfServiceload.pdb
+G:\迅达天成20170616\项目\WCFServer\WcfServiceload\bin\Debug\ToolAPI.dll
+G:\迅达天成20170616\项目\WCFServer\WcfServiceload\obj\Debug\WcfServiceload.csprojResolveAssemblyReference.cache
+G:\迅达天成20170616\项目\WCFServer\WcfServiceload\obj\Debug\WcfServiceload.dll
+G:\迅达天成20170616\项目\WCFServer\WcfServiceload\obj\Debug\WcfServiceload.pdb
+E:\共友时代\集群数据库访问转接服务\WcfServiceload\bin\Debug\WcfServiceload.dll.config
+E:\共友时代\集群数据库访问转接服务\WcfServiceload\bin\Debug\WcfServiceload.dll
+E:\共友时代\集群数据库访问转接服务\WcfServiceload\bin\Debug\WcfServiceload.pdb
+E:\共友时代\集群数据库访问转接服务\WcfServiceload\bin\Debug\ToolAPI.dll
+E:\共友时代\集群数据库访问转接服务\WcfServiceload\obj\Debug\WcfServiceload.csprojResolveAssemblyReference.cache
+E:\共友时代\集群数据库访问转接服务\WcfServiceload\obj\Debug\WcfServiceload.dll
+E:\共友时代\集群数据库访问转接服务\WcfServiceload\obj\Debug\WcfServiceload.pdb
+I:\hw\GOYOService\DB_WCFServer\WcfServiceload\bin\Debug\WcfServiceload.dll.config
+I:\hw\GOYOService\DB_WCFServer\WcfServiceload\bin\Debug\WcfServiceload.dll
+I:\hw\GOYOService\DB_WCFServer\WcfServiceload\bin\Debug\WcfServiceload.pdb
+I:\hw\GOYOService\DB_WCFServer\WcfServiceload\bin\Debug\ToolAPI.dll
+I:\hw\GOYOService\DB_WCFServer\WcfServiceload\obj\Debug\WcfServiceload.csprojResolveAssemblyReference.cache
+I:\hw\GOYOService\DB_WCFServer\WcfServiceload\obj\Debug\WcfServiceload.dll
+I:\hw\GOYOService\DB_WCFServer\WcfServiceload\obj\Debug\WcfServiceload.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\WcfServiceload\bin\Debug\WcfServiceload.dll.config
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\WcfServiceload\bin\Debug\WcfServiceload.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\WcfServiceload\bin\Debug\WcfServiceload.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\WcfServiceload\bin\Debug\ToolAPI.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\WcfServiceload\obj\Debug\WcfServiceload.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\WcfServiceload\obj\Debug\WcfServiceload.csproj.CopyComplete
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\WcfServiceload\obj\Debug\WcfServiceload.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\DBRoute\WcfServiceload\obj\Debug\WcfServiceload.pdb

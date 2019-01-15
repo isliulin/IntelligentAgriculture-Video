@@ -1,0 +1,24 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly AccessOperate, Version=18.1.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly ToolAPI, Version=1.17.*, Culture=固定语言(固定国家/地区): 
+	hash=None, flags=None
+Class AccessOperate.AccessHelper: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed
+  Methods:
+    GetTable(String): PrivateScope, Public, Static, HideBySig
+    InsertData(String): PrivateScope, Public, Static, HideBySig
+Class AccessOperate.INIOperate: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetPrivateProfileSectionNamesA(Byte[], Int32, String): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+    GetPrivateProfileSection(String, Byte[], Int32, String): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+    IniWriteValue(String, String, String, String): PrivateScope, Public, Static, HideBySig
+    IniReadValue(String, String, String): PrivateScope, Public, Static, HideBySig
+    DelKey(String, String, String): PrivateScope, Public, Static, HideBySig
+    DelSection(String, String): PrivateScope, Public, Static, HideBySig
+    ReadSections(String): PrivateScope, Public, Static, HideBySig
+    ReadKeyValues(String, String): PrivateScope, Public, Static, HideBySig

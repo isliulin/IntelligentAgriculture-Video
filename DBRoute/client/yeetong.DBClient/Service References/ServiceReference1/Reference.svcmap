@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="84476aa9-bcff-4ae3-be71-5a961e04efcb" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://114.55.126.208:5000/WcfServiceload/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="e2a904cd-5bfe-4f97-9d0f-bc0c2deca7d0" SourceId="1" SourceUrl="http://114.55.126.208:5000/WcfServiceload/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="c3e08daf-8b5f-42d2-8822-00a89b971d31" SourceId="1" SourceUrl="http://114.55.126.208:5000/WcfServiceload/Service1/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="7bd60c85-a5d0-452d-8856-11394ad43545" SourceId="1" SourceUrl="http://114.55.126.208:5000/WcfServiceload/Service1/mex" />
+    <MetadataFile FileName="WcfServiceload.xsd" MetadataType="Schema" ID="8bebb77b-a886-4b07-ae52-d5b7497b309d" SourceId="1" SourceUrl="http://114.55.126.208:5000/WcfServiceload/Service1/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="d13f3739-d74e-4f19-b80e-65faa4a181c6" SourceId="1" SourceUrl="http://114.55.126.208:5000/WcfServiceload/Service1/mex" />
+    <MetadataFile FileName="System.Data.xsd" MetadataType="Schema" ID="a2a0ac64-6f9b-4778-ad16-11fcc88bb047" SourceId="1" SourceUrl="http://114.55.126.208:5000/WcfServiceload/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

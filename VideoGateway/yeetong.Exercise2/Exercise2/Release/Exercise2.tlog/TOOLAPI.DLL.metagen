@@ -1,0 +1,139 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly ToolAPI, Version=1.17.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ToolAPI.BitConverterOverride: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed
+  Methods:
+    GetBytes_BigEndian(Char): PrivateScope, Public, Static, HideBySig
+    GetBytes_BigEndian(Double): PrivateScope, Public, Static, HideBySig
+    GetBytes_BigEndian(Int16): PrivateScope, Public, Static, HideBySig
+    GetBytes_BigEndian(Int32): PrivateScope, Public, Static, HideBySig
+    GetBytes_BigEndian(Int64): PrivateScope, Public, Static, HideBySig
+    GetBytes_BigEndian(Single): PrivateScope, Public, Static, HideBySig
+    GetBytes_BigEndian(UInt16): PrivateScope, Public, Static, HideBySig
+    GetBytes_BigEndian(UInt32): PrivateScope, Public, Static, HideBySig
+    GetBytes_BigEndian(UInt64): PrivateScope, Public, Static, HideBySig
+    GetBytes_BigEndian(Boolean): PrivateScope, Public, Static, HideBySig
+    GetBytes_LittleEndian(Char): PrivateScope, Public, Static, HideBySig
+    GetBytes_LittleEndian(Double): PrivateScope, Public, Static, HideBySig
+    GetBytes_LittleEndian(Int16): PrivateScope, Public, Static, HideBySig
+    GetBytes_LittleEndian(Int32): PrivateScope, Public, Static, HideBySig
+    GetBytes_LittleEndian(Int64): PrivateScope, Public, Static, HideBySig
+    GetBytes_LittleEndian(Single): PrivateScope, Public, Static, HideBySig
+    GetBytes_LittleEndian(UInt16): PrivateScope, Public, Static, HideBySig
+    GetBytes_LittleEndian(UInt32): PrivateScope, Public, Static, HideBySig
+    GetBytes_LittleEndian(UInt64): PrivateScope, Public, Static, HideBySig
+    GetBytes_LittleEndian(Boolean): PrivateScope, Public, Static, HideBySig
+Class ToolAPI.UShortValue: AutoLayout, AnsiClass, Class, Public, ExplicitLayout, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Byte bValue1 : Public
+    Byte bValue2 : Public
+    UInt16 sValue : Public
+Class ToolAPI.ShortValue: AutoLayout, AnsiClass, Class, Public, ExplicitLayout, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Byte bValue1 : Public
+    Byte bValue2 : Public
+    Int16 sValue : Public
+Class ToolAPI.IntValue: AutoLayout, AnsiClass, Class, Public, ExplicitLayout, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Byte bValue1 : Public
+    Byte bValue2 : Public
+    Byte bValue3 : Public
+    Byte bValue4 : Public
+    Int32 iValue : Public
+Class ToolAPI.FloatValue: AutoLayout, AnsiClass, Class, Public, ExplicitLayout, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Byte bValue1 : Public
+    Byte bValue2 : Public
+    Byte bValue3 : Public
+    Byte bValue4 : Public
+    Single fValue : Public
+Class ToolAPI.DoubleValue: AutoLayout, AnsiClass, Class, Public, ExplicitLayout, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Byte bValue1 : Public
+    Byte bValue2 : Public
+    Byte bValue3 : Public
+    Byte bValue4 : Public
+    Byte bValue5 : Public
+    Byte bValue6 : Public
+    Byte bValue7 : Public
+    Byte bValue8 : Public
+    Double dValue : Public
+Class ToolAPI.ConvertData: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    ToHexString(Byte[], Int32, Int32): PrivateScope, Public, Static, HideBySig
+    ToHexString_Space(Byte[], Int32, Int32): PrivateScope, Public, Static, HideBySig
+    HexToByte(String): PrivateScope, Public, Static, HideBySig
+    Fill(Byte[], Int32, Int32): PrivateScope, Public, Static, HideBySig
+    CRC16(Byte[], Int32, Int32): PrivateScope, Public, Static, HideBySig
+    Check(Byte[]): PrivateScope, Public, Static, HideBySig
+Class ToolAPI.CryptoTool: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Encrypt_DES(String, String): PrivateScope, Public, Static, HideBySig
+    Decrypt_DES(String, String): PrivateScope, Public, Static, HideBySig
+Class ToolAPI.FileHelp: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Fields:
+    System.IO.StreamWriter sw : Public, Static
+    System.Object AsyncFile : Public, Static, InitOnly
+  Methods:
+    IsExistDirectory(String): PrivateScope, Public, Static, HideBySig
+    CreateDirectory(String): PrivateScope, Public, Static, HideBySig
+    ExistsFile(String): PrivateScope, Public, Static, HideBySig
+    GetDirectory(String): PrivateScope, Public, Static, HideBySig
+    FileOpen(String): PrivateScope, Public, Static, HideBySig
+    FileAppend(String): PrivateScope, Public, Static, HideBySig
+    FileClose(): PrivateScope, Public, Static, HideBySig
+    GetPrivateProfileSectionNamesA(Byte[], Int32, String): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+    GetPrivateProfileSection(String, Byte[], Int32, String): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+    IniWriteValue(String, String, String, String): PrivateScope, Public, Static, HideBySig
+    IniReadValue(String, String, String): PrivateScope, Public, Static, HideBySig
+    DelKey(String, String, String): PrivateScope, Public, Static, HideBySig
+    DelSection(String, String): PrivateScope, Public, Static, HideBySig
+    ReadSections(String): PrivateScope, Public, Static, HideBySig
+    ReadKeyValues(String, String): PrivateScope, Public, Static, HideBySig
+Class ToolAPI.INIOperate: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetPrivateProfileSectionNamesA(Byte[], Int32, String): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+    GetPrivateProfileSection(String, Byte[], Int32, String): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+    IniWriteValue(String, String, String, String): PrivateScope, Public, Static, HideBySig
+    IniReadValue(String, String, String): PrivateScope, Public, Static, HideBySig
+    DelKey(String, String, String): PrivateScope, Public, Static, HideBySig
+    DelSection(String, String): PrivateScope, Public, Static, HideBySig
+    ReadSections(String): PrivateScope, Public, Static, HideBySig
+    ReadKeyValues(String, String): PrivateScope, Public, Static, HideBySig
+Struct ToolAPI.OperateaType: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    ToolAPI.OperateaType DEBUG = 0 : Public, Static, Literal, HasDefault
+    ToolAPI.OperateaType INFO = 1 : Public, Static, Literal, HasDefault
+    ToolAPI.OperateaType WARN = 2 : Public, Static, Literal, HasDefault
+    ToolAPI.OperateaType ERROR = 3 : Public, Static, Literal, HasDefault
+Class ToolAPI.XMLOperation: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed
+  Fields:
+    System.Object syncSocket : Public, Static
+    System.Action`2[System.String,System.String] WriteLogXmlNoTailEvent : Public, Static
+    Boolean IsDebug : Public, Static
+    Boolean IsDistributed : Public, Static
+    System.String Distributed_Ip : Public, Static
+    Int32 Distributed_Port : Public, Static
+    System.String Distributed_PathPrefix : Public, Static
+  Methods:
+    AppendLog(Boolean, String, String, String): PrivateScope, Public, Static, HideBySig
+    WriteLogXmlNoTail(String, String): PrivateScope, Public, Static, HideBySig
+    WriteLogXmlNoTail(String, String, String): PrivateScope, Public, Static, HideBySig
+    ReadLogXmlNoTail(String): PrivateScope, Public, Static, HideBySig

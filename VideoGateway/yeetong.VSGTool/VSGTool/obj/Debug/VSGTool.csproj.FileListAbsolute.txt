@@ -1,0 +1,4 @@
+C:\Users\赵通\Desktop\CLR\VSGTool\VSGTool\VSGTool\bin\Debug\VSGTool.dll
+C:\Users\赵通\Desktop\CLR\VSGTool\VSGTool\VSGTool\bin\Debug\VSGTool.pdb
+C:\Users\赵通\Desktop\CLR\VSGTool\VSGTool\VSGTool\obj\Debug\VSGTool.dll
+C:\Users\赵通\Desktop\CLR\VSGTool\VSGTool\VSGTool\obj\Debug\VSGTool.pdb

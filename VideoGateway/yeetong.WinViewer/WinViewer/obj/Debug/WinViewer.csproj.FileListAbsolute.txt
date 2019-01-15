@@ -1,0 +1,61 @@
+D:\vs15code\WinViewer\WinViewer\bin\Debug\WinViewer.exe.config
+D:\vs15code\WinViewer\WinViewer\bin\Debug\WinViewer.exe
+D:\vs15code\WinViewer\WinViewer\bin\Debug\WinViewer.pdb
+D:\vs15code\WinViewer\WinViewer\bin\Debug\Interop.RDPCOMAPILib.dll
+D:\vs15code\WinViewer\WinViewer\bin\Debug\AxInterop.RDPCOMAPILib.dll
+D:\vs15code\WinViewer\WinViewer\obj\Debug\WinViewer.csprojResolveAssemblyReference.cache
+D:\vs15code\WinViewer\WinViewer\obj\Debug\Interop.RDPCOMAPILib.dll
+D:\vs15code\WinViewer\WinViewer\obj\Debug\AxInterop.RDPCOMAPILib.dll
+D:\vs15code\WinViewer\WinViewer\obj\Debug\WinViewer.csproj.ResolveComReference.cache
+D:\vs15code\WinViewer\WinViewer\obj\Debug\WinViewer.Form1.resources
+D:\vs15code\WinViewer\WinViewer\obj\Debug\WinViewer.Properties.Resources.resources
+D:\vs15code\WinViewer\WinViewer\obj\Debug\WinViewer.csproj.GenerateResource.Cache
+D:\vs15code\WinViewer\WinViewer\obj\Debug\WinViewer.exe
+D:\vs15code\WinViewer\WinViewer\obj\Debug\WinViewer.pdb
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\bin\Debug\WinViewer.exe.config
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\bin\Debug\WinViewer.exe
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\bin\Debug\WinViewer.pdb
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\bin\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\bin\Debug\AxInterop.RDPCOMAPILib.dll
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\AxInterop.RDPCOMAPILib.dll
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.csproj.ResolveComReference.cache
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.远程桌面控制端.resources
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.Properties.Resources.resources
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.csproj.GenerateResource.Cache
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.csproj.CoreCompileInputs.cache
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.exe
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.pdb
+C:\Users\赵通\Desktop\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.csprojResolveAssemblyReference.cache
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\bin\Debug\WinViewer.exe.config
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\bin\Debug\WinViewer.exe
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\bin\Debug\WinViewer.pdb
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\bin\Debug\Interop.RDPCOMAPILib.dll
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\bin\Debug\AxInterop.RDPCOMAPILib.dll
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.csprojAssemblyReference.cache
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\Interop.RDPCOMAPILib.dll
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\AxInterop.RDPCOMAPILib.dll
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.csproj.ResolveComReference.cache
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.远程桌面控制端.resources
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.Properties.Resources.resources
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.csproj.GenerateResource.cache
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.csproj.CoreCompileInputs.cache
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.csproj.CopyComplete
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.exe
+F:\gitlab\RDP桌面共享控制\RDP桌面共享控制\WinViewer\WinViewer\obj\Debug\WinViewer.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\bin\Debug\WinViewer.exe.config
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\bin\Debug\WinViewer.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\bin\Debug\WinViewer.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\bin\Debug\yeetong.DBClient.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\bin\Debug\Interop.RDPCOMAPILib.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\bin\Debug\AxInterop.RDPCOMAPILib.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\obj\Debug\Interop.RDPCOMAPILib.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\obj\Debug\AxInterop.RDPCOMAPILib.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\obj\Debug\WinViewer.csproj.ResolveComReference.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\obj\Debug\WinViewer.远程桌面控制端.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\obj\Debug\WinViewer.Properties.Resources.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\obj\Debug\WinViewer.csproj.GenerateResource.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\obj\Debug\WinViewer.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\obj\Debug\WinViewer.csproj.CopyComplete
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\obj\Debug\WinViewer.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-Video\VideoGateway\yeetong.WinViewer\WinViewer\obj\Debug\WinViewer.pdb
